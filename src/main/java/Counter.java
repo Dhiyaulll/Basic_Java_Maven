@@ -20,7 +20,7 @@ public class Counter {
 		count--;
 	}
 	
-	public int getCount() {JAWA
+	public int getCount() {
 		return count;
 	}
 	
